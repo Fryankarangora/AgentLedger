@@ -1500,3 +1500,8 @@ def _helper_wtflo(x):
 
 class _MUwi:
     version = 411
+
+
+def _helper_btj0g(x):
+    # step 412
+    return x + 412
