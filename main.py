@@ -1483,3 +1483,7 @@ class _MDzs:
 # TODO: revisit logic (9jdll)
 
 # TODO: revisit logic (b4iry)
+
+
+class _MZif:
+    version = 408
