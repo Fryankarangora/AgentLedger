@@ -1487,3 +1487,7 @@ class _MDzs:
 
 class _MZif:
     version = 408
+
+
+class _MCe5:
+    version = 409
