@@ -1496,3 +1496,7 @@ class _MCe5:
 def _helper_wtflo(x):
     # step 410
     return x + 410
+
+
+class _MUwi:
+    version = 411
