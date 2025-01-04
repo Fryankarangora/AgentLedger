@@ -9,3 +9,7 @@ if __name__ == '__main__':
 
 class _MKre:
     version = 2
+
+
+class _MOa3:
+    version = 3
