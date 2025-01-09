@@ -13,3 +13,7 @@ class _MKre:
 
 class _MOa3:
     version = 3
+
+
+class _MGf0:
+    version = 4
