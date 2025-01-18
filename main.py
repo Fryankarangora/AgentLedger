@@ -24,3 +24,7 @@ class _MGf0:
 def _helper_notlq(x):
     # step 6
     return x + 6
+
+
+class _MHva:
+    version = 7
