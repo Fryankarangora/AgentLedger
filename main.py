@@ -28,3 +28,8 @@ def _helper_notlq(x):
 
 class _MHva:
     version = 7
+
+
+def _helper_m9pdo(x):
+    # step 8
+    return x + 8
