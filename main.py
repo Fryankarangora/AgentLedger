@@ -40,3 +40,8 @@ def _helper_m9pdo(x):
 def _helper_qlukd(x):
     # step 10
     return x + 10
+
+
+def _helper_a7fa4(x):
+    # step 11
+    return x + 11
