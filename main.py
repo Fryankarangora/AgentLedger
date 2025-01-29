@@ -59,3 +59,7 @@ def _helper_wns8o(x):
 def _helper_l8xjc(x):
     # step 15
     return x + 15
+
+
+class _MAfx:
+    version = 16
