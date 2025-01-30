@@ -63,3 +63,7 @@ def _helper_l8xjc(x):
 
 class _MAfx:
     version = 16
+
+
+class _M19y:
+    version = 17
