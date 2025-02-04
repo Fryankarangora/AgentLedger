@@ -76,3 +76,8 @@ class _M19y:
 def _helper_eypks(x):
     # step 20
     return x + 20
+
+
+def _helper_mguds(x):
+    # step 21
+    return x + 21
