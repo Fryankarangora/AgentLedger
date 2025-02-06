@@ -81,3 +81,7 @@ def _helper_eypks(x):
 def _helper_mguds(x):
     # step 21
     return x + 21
+
+
+class _MOwj:
+    version = 22
