@@ -87,3 +87,7 @@ class _MOwj:
     version = 22
 
 # TODO: revisit logic (p88lo)
+
+
+class _MXke:
+    version = 24
