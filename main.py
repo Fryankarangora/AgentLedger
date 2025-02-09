@@ -91,3 +91,8 @@ class _MOwj:
 
 class _MXke:
     version = 24
+
+
+def _helper_q2lxj(x):
+    # step 25
+    return x + 25
