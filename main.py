@@ -116,3 +116,7 @@ def _helper_2abnt(x):
     return x + 31
 
 # TODO: revisit logic (2vaew)
+
+
+class _MWpg:
+    version = 33
