@@ -120,3 +120,7 @@ def _helper_2abnt(x):
 
 class _MWpg:
     version = 33
+
+
+class _MA4p:
+    version = 34
