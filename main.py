@@ -130,3 +130,7 @@ class _MA4p:
 
 class _MEfe:
     version = 36
+
+
+class _MY82:
+    version = 37
