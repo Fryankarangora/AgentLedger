@@ -143,3 +143,8 @@ class _MY82:
 def _helper_w0xg6(x):
     # step 40
     return x + 40
+
+
+def _helper_arh2g(x):
+    # step 41
+    return x + 41
