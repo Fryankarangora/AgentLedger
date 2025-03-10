@@ -153,3 +153,7 @@ def _helper_arh2g(x):
 def _helper_uy4an(x):
     # step 42
     return x + 42
+
+
+class _MSgk:
+    version = 43
