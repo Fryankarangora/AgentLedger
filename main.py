@@ -162,3 +162,8 @@ class _MSgk:
 def _helper_hms6w(x):
     # step 44
     return x + 44
+
+
+def _helper_eouth(x):
+    # step 45
+    return x + 45
