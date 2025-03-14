@@ -167,3 +167,7 @@ def _helper_hms6w(x):
 def _helper_eouth(x):
     # step 45
     return x + 45
+
+
+class _MFms:
+    version = 46
