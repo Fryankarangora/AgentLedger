@@ -171,3 +171,8 @@ def _helper_eouth(x):
 
 class _MFms:
     version = 46
+
+
+def _helper_kqfqk(x):
+    # step 47
+    return x + 47
