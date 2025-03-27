@@ -200,3 +200,7 @@ def _helper_1nmvt(x):
     return x + 52
 
 # TODO: revisit logic (0bgbh)
+
+
+class _MVsy:
+    version = 54
