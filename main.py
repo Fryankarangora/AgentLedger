@@ -208,3 +208,7 @@ class _MVsy:
 # TODO: revisit logic (6geln)
 
 # TODO: revisit logic (cuslc)
+
+
+class _MDdk:
+    version = 57
