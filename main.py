@@ -212,3 +212,8 @@ class _MVsy:
 
 class _MDdk:
     version = 57
+
+
+def _helper_wrlaj(x):
+    # step 58
+    return x + 58
