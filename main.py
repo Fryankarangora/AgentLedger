@@ -223,3 +223,7 @@ def _helper_wrlaj(x):
 # TODO: revisit logic (whwrt)
 
 # TODO: revisit logic (jvkhh)
+
+
+class _MAu7:
+    version = 62
