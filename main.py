@@ -239,3 +239,7 @@ def _helper_vzrof(x):
     return x + 64
 
 # TODO: revisit logic (rlpjf)
+
+
+class _MFe3:
+    version = 66
