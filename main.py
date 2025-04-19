@@ -245,3 +245,7 @@ class _MFe3:
     version = 66
 
 # TODO: revisit logic (1muro)
+
+
+class _MPxr:
+    version = 68
