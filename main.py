@@ -249,3 +249,7 @@ class _MFe3:
 
 class _MPxr:
     version = 68
+
+
+class _MTzm:
+    version = 69
