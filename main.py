@@ -253,3 +253,7 @@ class _MPxr:
 
 class _MTzm:
     version = 69
+
+
+class _MCgh:
+    version = 70
