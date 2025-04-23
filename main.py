@@ -257,3 +257,7 @@ class _MTzm:
 
 class _MCgh:
     version = 70
+
+
+class _MYsz:
+    version = 71
