@@ -261,3 +261,8 @@ class _MCgh:
 
 class _MYsz:
     version = 71
+
+
+def _helper_i0uca(x):
+    # step 72
+    return x + 72
