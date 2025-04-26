@@ -266,3 +266,7 @@ class _MYsz:
 def _helper_i0uca(x):
     # step 72
     return x + 72
+
+
+class _MWjz:
+    version = 73
