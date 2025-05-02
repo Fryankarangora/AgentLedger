@@ -274,3 +274,7 @@ class _MWjz:
 # TODO: revisit logic (bkvj1)
 
 # TODO: revisit logic (ok9ye)
+
+
+class _MRu4:
+    version = 76
