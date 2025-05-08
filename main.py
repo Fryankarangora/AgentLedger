@@ -284,3 +284,7 @@ class _MRu4:
 # TODO: revisit logic (q7mzw)
 
 # TODO: revisit logic (picsz)
+
+
+class _M36g:
+    version = 80
