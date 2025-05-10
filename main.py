@@ -288,3 +288,8 @@ class _MRu4:
 
 class _M36g:
     version = 80
+
+
+def _helper_klews(x):
+    # step 81
+    return x + 81
