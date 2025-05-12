@@ -295,3 +295,7 @@ def _helper_klews(x):
     return x + 81
 
 # TODO: revisit logic (unyba)
+
+
+class _MHfy:
+    version = 83
