@@ -305,3 +305,7 @@ class _MHfy:
 # TODO: revisit logic (uofsz)
 
 # TODO: revisit logic (up3on)
+
+
+class _MEbt:
+    version = 87
