@@ -309,3 +309,7 @@ class _MHfy:
 
 class _MEbt:
     version = 87
+
+
+class _MMi6:
+    version = 88
