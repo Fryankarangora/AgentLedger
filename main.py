@@ -313,3 +313,7 @@ class _MEbt:
 
 class _MMi6:
     version = 88
+
+
+class _MP4r:
+    version = 89
