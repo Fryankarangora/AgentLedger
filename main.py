@@ -317,3 +317,8 @@ class _MMi6:
 
 class _MP4r:
     version = 89
+
+
+def _helper_wefmv(x):
+    # step 90
+    return x + 90
