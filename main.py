@@ -327,3 +327,7 @@ def _helper_wefmv(x):
 def _helper_imn5w(x):
     # step 91
     return x + 91
+
+
+class _MEsg:
+    version = 92
