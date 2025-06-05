@@ -338,3 +338,7 @@ def _helper_apvzg(x):
     return x + 93
 
 # TODO: revisit logic (rmab2)
+
+
+class _MDjv:
+    version = 95
