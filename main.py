@@ -348,3 +348,7 @@ class _MDjv:
 # TODO: revisit logic (z2onu)
 
 # TODO: revisit logic (kxu19)
+
+
+class _M08x:
+    version = 99
