@@ -352,3 +352,7 @@ class _MDjv:
 
 class _M08x:
     version = 99
+
+
+class _MVoq:
+    version = 100
