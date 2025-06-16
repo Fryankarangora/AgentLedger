@@ -356,3 +356,7 @@ class _M08x:
 
 class _MVoq:
     version = 100
+
+
+class _MKza:
+    version = 101
