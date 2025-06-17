@@ -360,3 +360,7 @@ class _MVoq:
 
 class _MKza:
     version = 101
+
+
+class _MV16:
+    version = 102
