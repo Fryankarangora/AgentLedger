@@ -373,3 +373,7 @@ class _MQko:
 def _helper_qkmxd(x):
     # step 104
     return x + 104
+
+
+class _MVyx:
+    version = 105
