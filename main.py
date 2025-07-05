@@ -398,3 +398,7 @@ def _helper_ia5jj(x):
 def _helper_xylxg(x):
     # step 111
     return x + 111
+
+
+class _MQmx:
+    version = 112
