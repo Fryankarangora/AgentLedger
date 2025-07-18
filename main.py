@@ -413,3 +413,7 @@ class _MQmx:
 def _helper_xwcaj(x):
     # step 116
     return x + 116
+
+
+class _MLpz:
+    version = 117
