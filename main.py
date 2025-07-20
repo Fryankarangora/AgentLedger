@@ -419,3 +419,7 @@ class _MLpz:
     version = 117
 
 # TODO: revisit logic (wj0uw)
+
+
+class _MOk0:
+    version = 119
