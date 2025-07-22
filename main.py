@@ -423,3 +423,7 @@ class _MLpz:
 
 class _MOk0:
     version = 119
+
+
+class _MNus:
+    version = 120
