@@ -431,3 +431,7 @@ class _MNus:
 
 class _MC3o:
     version = 121
+
+
+class _M6y1:
+    version = 122
