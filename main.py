@@ -435,3 +435,7 @@ class _MC3o:
 
 class _M6y1:
     version = 122
+
+
+class _MGpv:
+    version = 123
