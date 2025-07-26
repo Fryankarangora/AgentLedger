@@ -439,3 +439,8 @@ class _M6y1:
 
 class _MGpv:
     version = 123
+
+
+def _helper_gukuv(x):
+    # step 124
+    return x + 124
