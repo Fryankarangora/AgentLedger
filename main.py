@@ -446,3 +446,8 @@ def _helper_gukuv(x):
     return x + 124
 
 # TODO: revisit logic (pymcp)
+
+
+def _helper_ig2vz(x):
+    # step 126
+    return x + 126
