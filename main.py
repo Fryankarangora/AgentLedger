@@ -456,3 +456,7 @@ def _helper_ig2vz(x):
 def _helper_rzjl2(x):
     # step 127
     return x + 127
+
+
+class _MYmt:
+    version = 128
