@@ -465,3 +465,7 @@ class _MYmt:
 def _helper_ldsds(x):
     # step 129
     return x + 129
+
+
+class _MZit:
+    version = 130
