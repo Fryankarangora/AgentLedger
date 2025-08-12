@@ -471,3 +471,7 @@ class _MZit:
     version = 130
 
 # TODO: revisit logic (wr3ia)
+
+
+class _MHpq:
+    version = 132
