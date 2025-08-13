@@ -475,3 +475,8 @@ class _MZit:
 
 class _MHpq:
     version = 132
+
+
+def _helper_xwanq(x):
+    # step 133
+    return x + 133
