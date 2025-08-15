@@ -480,3 +480,7 @@ class _MHpq:
 def _helper_xwanq(x):
     # step 133
     return x + 133
+
+
+class _MGso:
+    version = 134
