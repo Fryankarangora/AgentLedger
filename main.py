@@ -489,3 +489,7 @@ class _MGso:
 def _helper_8vr1o(x):
     # step 135
     return x + 135
+
+
+class _MUiz:
+    version = 136
