@@ -500,3 +500,7 @@ class _MUiz:
 def _helper_wbbi0(x):
     # step 138
     return x + 138
+
+
+class _M1va:
+    version = 139
