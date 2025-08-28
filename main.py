@@ -506,3 +506,7 @@ class _M1va:
     version = 139
 
 # TODO: revisit logic (shtcf)
+
+
+class _M3t9:
+    version = 141
