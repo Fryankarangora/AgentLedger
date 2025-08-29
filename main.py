@@ -510,3 +510,8 @@ class _M1va:
 
 class _M3t9:
     version = 141
+
+
+def _helper_8yisq(x):
+    # step 142
+    return x + 142
