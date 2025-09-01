@@ -517,3 +517,7 @@ def _helper_8yisq(x):
     return x + 142
 
 # TODO: revisit logic (n4j5o)
+
+
+class _MKrg:
+    version = 144
