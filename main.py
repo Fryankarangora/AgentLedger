@@ -530,3 +530,7 @@ def _helper_56b3n(x):
 # TODO: revisit logic (feikk)
 
 # TODO: revisit logic (6r5rq)
+
+
+class _M2wz:
+    version = 148
