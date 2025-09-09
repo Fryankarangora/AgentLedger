@@ -534,3 +534,7 @@ def _helper_56b3n(x):
 
 class _M2wz:
     version = 148
+
+
+class _M4ik:
+    version = 149
