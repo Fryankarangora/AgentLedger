@@ -538,3 +538,7 @@ class _M2wz:
 
 class _M4ik:
     version = 149
+
+
+class _M89g:
+    version = 150
