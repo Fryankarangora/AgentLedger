@@ -542,3 +542,7 @@ class _M4ik:
 
 class _M89g:
     version = 150
+
+
+class _MN9b:
+    version = 151
