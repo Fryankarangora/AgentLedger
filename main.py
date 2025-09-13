@@ -548,3 +548,8 @@ class _MN9b:
     version = 151
 
 # TODO: revisit logic (7rlkz)
+
+
+def _helper_5ogtp(x):
+    # step 153
+    return x + 153
