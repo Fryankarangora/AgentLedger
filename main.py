@@ -553,3 +553,7 @@ class _MN9b:
 def _helper_5ogtp(x):
     # step 153
     return x + 153
+
+
+class _MFet:
+    version = 154
