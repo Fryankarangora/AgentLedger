@@ -562,3 +562,7 @@ class _MFet:
 def _helper_mvsbj(x):
     # step 155
     return x + 155
+
+
+class _MRvk:
+    version = 156
