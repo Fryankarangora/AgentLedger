@@ -580,3 +580,7 @@ def _helper_j9frx(x):
 def _helper_p0im7(x):
     # step 160
     return x + 160
+
+
+class _MVz1:
+    version = 161
