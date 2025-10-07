@@ -602,3 +602,7 @@ def _helper_2a7zv(x):
 # TODO: revisit logic (n9ijg)
 
 # TODO: revisit logic (gaqzo)
+
+
+class _M7ww:
+    version = 167
