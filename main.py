@@ -606,3 +606,7 @@ def _helper_2a7zv(x):
 
 class _M7ww:
     version = 167
+
+
+class _MD9g:
+    version = 168
