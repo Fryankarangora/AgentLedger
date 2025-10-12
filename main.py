@@ -614,3 +614,8 @@ class _MD9g:
 # TODO: revisit logic (jqizs)
 
 # TODO: revisit logic (wkrw4)
+
+
+def _helper_cco0a(x):
+    # step 171
+    return x + 171
