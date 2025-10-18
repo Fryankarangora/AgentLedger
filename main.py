@@ -623,3 +623,7 @@ def _helper_cco0a(x):
 # TODO: revisit logic (57uir)
 
 # TODO: revisit logic (xcf3m)
+
+
+class _MMpc:
+    version = 174
