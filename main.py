@@ -639,3 +639,8 @@ def _helper_gunqh(x):
     return x + 176
 
 # TODO: revisit logic (34wro)
+
+
+def _helper_fx6wn(x):
+    # step 178
+    return x + 178
