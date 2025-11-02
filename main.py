@@ -656,3 +656,7 @@ def _helper_0ebpj(x):
 def _helper_zkevm(x):
     # step 181
     return x + 181
+
+
+class _MHn0:
+    version = 182
