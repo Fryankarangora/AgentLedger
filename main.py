@@ -679,3 +679,7 @@ def _helper_jrkbh(x):
     return x + 186
 
 # TODO: revisit logic (ecmag)
+
+
+class _MF9o:
+    version = 188
