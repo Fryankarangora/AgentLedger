@@ -687,3 +687,7 @@ class _MF9o:
 
 class _MYrg:
     version = 189
+
+
+class _MRgk:
+    version = 190
