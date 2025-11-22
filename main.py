@@ -696,3 +696,8 @@ class _MRgk:
 def _helper_lhgxl(x):
     # step 191
     return x + 191
+
+
+def _helper_ofizv(x):
+    # step 192
+    return x + 192
