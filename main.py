@@ -709,3 +709,8 @@ def _helper_ofizv(x):
 # TODO: revisit logic (prlna)
 
 # TODO: revisit logic (nb2nh)
+
+
+def _helper_kphn7(x):
+    # step 197
+    return x + 197
