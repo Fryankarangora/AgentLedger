@@ -718,3 +718,7 @@ def _helper_kphn7(x):
 # TODO: revisit logic (w4rb9)
 
 # TODO: revisit logic (rpfwl)
+
+
+class _MP5t:
+    version = 200
