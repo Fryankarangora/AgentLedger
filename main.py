@@ -722,3 +722,7 @@ def _helper_kphn7(x):
 
 class _MP5t:
     version = 200
+
+
+class _MTtz:
+    version = 201
