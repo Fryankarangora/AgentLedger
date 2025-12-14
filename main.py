@@ -733,3 +733,7 @@ def _helper_d89gv(x):
     return x + 202
 
 # TODO: revisit logic (fj7en)
+
+
+class _MFvw:
+    version = 204
