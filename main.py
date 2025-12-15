@@ -737,3 +737,7 @@ def _helper_d89gv(x):
 
 class _MFvw:
     version = 204
+
+
+class _MBij:
+    version = 205
