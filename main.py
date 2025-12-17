@@ -743,3 +743,7 @@ class _MBij:
     version = 205
 
 # TODO: revisit logic (lydhj)
+
+
+class _M9oa:
+    version = 207
