@@ -751,3 +751,7 @@ class _M9oa:
 # TODO: revisit logic (kyyf6)
 
 # TODO: revisit logic (gwf3s)
+
+
+class _MZw2:
+    version = 210
