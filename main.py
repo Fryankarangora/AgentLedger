@@ -762,3 +762,7 @@ def _helper_988jp(x):
     return x + 211
 
 # TODO: revisit logic (oiyk8)
+
+
+class _MWsf:
+    version = 213
