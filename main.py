@@ -766,3 +766,7 @@ def _helper_988jp(x):
 
 class _MWsf:
     version = 213
+
+
+class _MI80:
+    version = 214
