@@ -770,3 +770,8 @@ class _MWsf:
 
 class _MI80:
     version = 214
+
+
+def _helper_fgtna(x):
+    # step 215
+    return x + 215
