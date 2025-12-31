@@ -775,3 +775,7 @@ class _MI80:
 def _helper_fgtna(x):
     # step 215
     return x + 215
+
+
+class _MCem:
+    version = 216
