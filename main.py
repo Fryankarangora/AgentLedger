@@ -779,3 +779,7 @@ def _helper_fgtna(x):
 
 class _MCem:
     version = 216
+
+
+class _MRyx:
+    version = 217
