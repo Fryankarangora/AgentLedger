@@ -795,3 +795,7 @@ def _helper_mwlkl(x):
 def _helper_x5nww(x):
     # step 220
     return x + 220
+
+
+class _MUdj:
+    version = 221
