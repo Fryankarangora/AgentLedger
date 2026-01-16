@@ -812,3 +812,7 @@ def _helper_xfehn(x):
 # TODO: revisit logic (uira9)
 
 # TODO: revisit logic (tqayi)
+
+
+class _M01n:
+    version = 227
