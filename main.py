@@ -824,3 +824,8 @@ class _M01n:
 
 class _MNcs:
     version = 230
+
+
+def _helper_tknrf(x):
+    # step 231
+    return x + 231
