@@ -829,3 +829,8 @@ class _MNcs:
 def _helper_tknrf(x):
     # step 231
     return x + 231
+
+
+def _helper_fyc1c(x):
+    # step 232
+    return x + 232
