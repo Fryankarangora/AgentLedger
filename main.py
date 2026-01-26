@@ -834,3 +834,7 @@ def _helper_tknrf(x):
 def _helper_fyc1c(x):
     # step 232
     return x + 232
+
+
+class _M4ec:
+    version = 233
