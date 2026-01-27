@@ -838,3 +838,8 @@ def _helper_fyc1c(x):
 
 class _M4ec:
     version = 233
+
+
+def _helper_iffae(x):
+    # step 234
+    return x + 234
