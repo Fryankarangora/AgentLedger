@@ -843,3 +843,7 @@ class _M4ec:
 def _helper_iffae(x):
     # step 234
     return x + 234
+
+
+class _MCkg:
+    version = 235
