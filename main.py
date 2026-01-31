@@ -847,3 +847,7 @@ def _helper_iffae(x):
 
 class _MCkg:
     version = 235
+
+
+class _M5sl:
+    version = 236
