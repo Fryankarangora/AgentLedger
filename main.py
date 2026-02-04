@@ -866,3 +866,7 @@ def _helper_9aodq(x):
 def _helper_rwspa(x):
     # step 239
     return x + 239
+
+
+class _M50v:
+    version = 240
