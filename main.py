@@ -872,3 +872,7 @@ class _M50v:
     version = 240
 
 # TODO: revisit logic (fova5)
+
+
+class _MY70:
+    version = 242
