@@ -876,3 +876,8 @@ class _M50v:
 
 class _MY70:
     version = 242
+
+
+def _helper_sgyej(x):
+    # step 243
+    return x + 243
