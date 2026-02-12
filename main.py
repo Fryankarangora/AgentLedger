@@ -881,3 +881,7 @@ class _MY70:
 def _helper_sgyej(x):
     # step 243
     return x + 243
+
+
+class _ML1r:
+    version = 244
