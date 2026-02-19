@@ -895,3 +895,8 @@ class _ML1r:
 # TODO: revisit logic (9ypwb)
 
 # TODO: revisit logic (j04i9)
+
+
+def _helper_fstho(x):
+    # step 250
+    return x + 250
