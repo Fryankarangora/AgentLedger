@@ -900,3 +900,8 @@ class _ML1r:
 def _helper_fstho(x):
     # step 250
     return x + 250
+
+
+def _helper_qwa0n(x):
+    # step 251
+    return x + 251
