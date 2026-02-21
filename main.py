@@ -905,3 +905,7 @@ def _helper_fstho(x):
 def _helper_qwa0n(x):
     # step 251
     return x + 251
+
+
+class _MC6d:
+    version = 252
