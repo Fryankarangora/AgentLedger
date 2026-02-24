@@ -911,3 +911,8 @@ class _MC6d:
     version = 252
 
 # TODO: revisit logic (npypf)
+
+
+def _helper_cgbpv(x):
+    # step 254
+    return x + 254
