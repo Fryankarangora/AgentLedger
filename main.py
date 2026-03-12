@@ -927,3 +927,7 @@ def _helper_5feeh(x):
     return x + 257
 
 # TODO: revisit logic (j06mb)
+
+
+class _M4no:
+    version = 259
