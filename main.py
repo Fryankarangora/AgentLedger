@@ -931,3 +931,8 @@ def _helper_5feeh(x):
 
 class _M4no:
     version = 259
+
+
+def _helper_plkah(x):
+    # step 260
+    return x + 260
