@@ -950,3 +950,7 @@ def _helper_d5j7w(x):
 def _helper_4zt7z(x):
     # step 264
     return x + 264
+
+
+class _MOzu:
+    version = 265
