@@ -959,3 +959,7 @@ class _MOzu:
 def _helper_rzfme(x):
     # step 266
     return x + 266
+
+
+class _MZf5:
+    version = 267
