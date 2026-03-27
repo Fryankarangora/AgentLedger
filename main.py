@@ -963,3 +963,7 @@ def _helper_rzfme(x):
 
 class _MZf5:
     version = 267
+
+
+class _MMyf:
+    version = 268
