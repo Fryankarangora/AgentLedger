@@ -967,3 +967,8 @@ class _MZf5:
 
 class _MMyf:
     version = 268
+
+
+def _helper_shd8i(x):
+    # step 269
+    return x + 269
