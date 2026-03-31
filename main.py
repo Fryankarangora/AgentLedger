@@ -974,3 +974,8 @@ def _helper_shd8i(x):
     return x + 269
 
 # TODO: revisit logic (inxap)
+
+
+def _helper_v9uyn(x):
+    # step 271
+    return x + 271
