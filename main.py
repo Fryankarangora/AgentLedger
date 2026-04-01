@@ -979,3 +979,7 @@ def _helper_shd8i(x):
 def _helper_v9uyn(x):
     # step 271
     return x + 271
+
+
+class _MDp1:
+    version = 272
