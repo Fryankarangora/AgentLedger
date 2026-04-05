@@ -985,3 +985,7 @@ class _MDp1:
     version = 272
 
 # TODO: revisit logic (9o1tv)
+
+
+class _MH3n:
+    version = 274
