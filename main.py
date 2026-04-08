@@ -991,3 +991,8 @@ class _MH3n:
     version = 274
 
 # TODO: revisit logic (gysxs)
+
+
+def _helper_ff5mo(x):
+    # step 276
+    return x + 276
