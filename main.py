@@ -1001,3 +1001,7 @@ def _helper_ff5mo(x):
 def _helper_ie8sz(x):
     # step 277
     return x + 277
+
+
+class _MU05:
+    version = 278
