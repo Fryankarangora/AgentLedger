@@ -1005,3 +1005,8 @@ def _helper_ie8sz(x):
 
 class _MU05:
     version = 278
+
+
+def _helper_ktg7i(x):
+    # step 279
+    return x + 279
