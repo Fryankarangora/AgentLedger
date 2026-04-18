@@ -1021,3 +1021,7 @@ def _helper_ozbb5(x):
     return x + 282
 
 # TODO: revisit logic (5p0eg)
+
+
+class _MC1f:
+    version = 284
