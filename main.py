@@ -1032,3 +1032,8 @@ def _helper_kuvtz(x):
     return x + 285
 
 # TODO: revisit logic (jt3od)
+
+
+def _helper_vtb2r(x):
+    # step 287
+    return x + 287
