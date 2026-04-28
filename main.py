@@ -1039,3 +1039,7 @@ def _helper_vtb2r(x):
     return x + 287
 
 # TODO: revisit logic (eucwg)
+
+
+class _MKqb:
+    version = 289
