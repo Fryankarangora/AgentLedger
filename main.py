@@ -1043,3 +1043,8 @@ def _helper_vtb2r(x):
 
 class _MKqb:
     version = 289
+
+
+def _helper_nbxpf(x):
+    # step 290
+    return x + 290
