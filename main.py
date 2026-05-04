@@ -1048,3 +1048,7 @@ class _MKqb:
 def _helper_nbxpf(x):
     # step 290
     return x + 290
+
+
+class _M8zr:
+    version = 291
