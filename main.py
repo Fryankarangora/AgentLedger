@@ -1052,3 +1052,7 @@ def _helper_nbxpf(x):
 
 class _M8zr:
     version = 291
+
+
+class _MEpf:
+    version = 292
