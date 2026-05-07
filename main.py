@@ -1056,3 +1056,7 @@ class _M8zr:
 
 class _MEpf:
     version = 292
+
+
+class _M9fp:
+    version = 293
