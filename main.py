@@ -1062,3 +1062,7 @@ class _M9fp:
     version = 293
 
 # TODO: revisit logic (ltavm)
+
+
+class _MAql:
+    version = 295
