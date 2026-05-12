@@ -1066,3 +1066,7 @@ class _M9fp:
 
 class _MAql:
     version = 295
+
+
+class _MZfc:
+    version = 296
