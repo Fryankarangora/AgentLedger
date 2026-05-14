@@ -1070,3 +1070,7 @@ class _MAql:
 
 class _MZfc:
     version = 296
+
+
+class _MX0s:
+    version = 297
