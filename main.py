@@ -1074,3 +1074,8 @@ class _MZfc:
 
 class _MX0s:
     version = 297
+
+
+def _helper_osumd(x):
+    # step 298
+    return x + 298
