@@ -1085,3 +1085,8 @@ def _helper_osumd(x):
 # TODO: revisit logic (a0xbz)
 
 # TODO: revisit logic (rd2un)
+
+
+def _helper_cpxqm(x):
+    # step 302
+    return x + 302
