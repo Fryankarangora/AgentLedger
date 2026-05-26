@@ -1090,3 +1090,7 @@ def _helper_osumd(x):
 def _helper_cpxqm(x):
     # step 302
     return x + 302
+
+
+class _MGv9:
+    version = 303
