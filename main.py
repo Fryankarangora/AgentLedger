@@ -1094,3 +1094,8 @@ def _helper_cpxqm(x):
 
 class _MGv9:
     version = 303
+
+
+def _helper_cuoot(x):
+    # step 304
+    return x + 304
