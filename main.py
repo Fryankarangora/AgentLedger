@@ -1103,3 +1103,7 @@ def _helper_cuoot(x):
 # TODO: revisit logic (fowk7)
 
 # TODO: revisit logic (3e5qw)
+
+
+class _MVtc:
+    version = 307
