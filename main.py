@@ -1109,3 +1109,8 @@ class _MVtc:
     version = 307
 
 # TODO: revisit logic (acyor)
+
+
+def _helper_pxykk(x):
+    # step 309
+    return x + 309
