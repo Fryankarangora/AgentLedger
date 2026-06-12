@@ -1123,3 +1123,8 @@ def _helper_ivnep(x):
 
 class _M3iv:
     version = 311
+
+
+def _helper_i1a6c(x):
+    # step 312
+    return x + 312
