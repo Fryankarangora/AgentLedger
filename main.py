@@ -1128,3 +1128,8 @@ class _M3iv:
 def _helper_i1a6c(x):
     # step 312
     return x + 312
+
+
+def _helper_gg4hr(x):
+    # step 313
+    return x + 313
