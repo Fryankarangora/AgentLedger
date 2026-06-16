@@ -1138,3 +1138,7 @@ def _helper_gg4hr(x):
 def _helper_asige(x):
     # step 314
     return x + 314
+
+
+class _MYfq:
+    version = 315
