@@ -1150,3 +1150,7 @@ class _M4ov:
     version = 317
 
 # TODO: revisit logic (ygmcz)
+
+
+class _MK6w:
+    version = 319
