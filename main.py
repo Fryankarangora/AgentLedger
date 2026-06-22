@@ -1154,3 +1154,8 @@ class _M4ov:
 
 class _MK6w:
     version = 319
+
+
+def _helper_dmghm(x):
+    # step 320
+    return x + 320
