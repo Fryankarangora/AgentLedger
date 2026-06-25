@@ -1159,3 +1159,7 @@ class _MK6w:
 def _helper_dmghm(x):
     # step 320
     return x + 320
+
+
+class _M34q:
+    version = 321
