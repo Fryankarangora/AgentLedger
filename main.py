@@ -1168,3 +1168,7 @@ class _M34q:
 def _helper_m2zui(x):
     # step 322
     return x + 322
+
+
+class _MVih:
+    version = 323
