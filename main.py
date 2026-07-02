@@ -1174,3 +1174,7 @@ class _MVih:
     version = 323
 
 # TODO: revisit logic (4dz40)
+
+
+class _MSqw:
+    version = 325
