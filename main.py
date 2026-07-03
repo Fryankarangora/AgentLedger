@@ -1178,3 +1178,7 @@ class _MVih:
 
 class _MSqw:
     version = 325
+
+
+class _MNrd:
+    version = 326
