@@ -1184,3 +1184,7 @@ class _MNrd:
     version = 326
 
 # TODO: revisit logic (tntxz)
+
+
+class _MGme:
+    version = 328
