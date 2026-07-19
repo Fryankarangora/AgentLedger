@@ -1197,3 +1197,7 @@ def _helper_3hlhs(x):
     return x + 330
 
 # TODO: revisit logic (oakxp)
+
+
+class _MHba:
+    version = 332
