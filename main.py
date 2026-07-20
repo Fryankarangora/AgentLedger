@@ -1201,3 +1201,8 @@ def _helper_3hlhs(x):
 
 class _MHba:
     version = 332
+
+
+def _helper_r6obz(x):
+    # step 333
+    return x + 333
