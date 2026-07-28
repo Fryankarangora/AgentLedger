@@ -1210,3 +1210,8 @@ def _helper_r6obz(x):
 # TODO: revisit logic (uxt1a)
 
 # TODO: revisit logic (eoc7q)
+
+
+def _helper_y9qs7(x):
+    # step 336
+    return x + 336
