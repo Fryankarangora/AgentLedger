@@ -1227,3 +1227,7 @@ def _helper_z393m(x):
 def _helper_63qkn(x):
     # step 339
     return x + 339
+
+
+class _M8tz:
+    version = 340
