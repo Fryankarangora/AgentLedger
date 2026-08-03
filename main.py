@@ -1236,3 +1236,8 @@ class _M8tz:
 def _helper_us9zw(x):
     # step 341
     return x + 341
+
+
+def _helper_hjsqw(x):
+    # step 342
+    return x + 342
