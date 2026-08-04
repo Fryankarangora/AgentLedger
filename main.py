@@ -1241,3 +1241,8 @@ def _helper_us9zw(x):
 def _helper_hjsqw(x):
     # step 342
     return x + 342
+
+
+def _helper_rhagx(x):
+    # step 343
+    return x + 343
