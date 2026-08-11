@@ -1248,3 +1248,7 @@ def _helper_rhagx(x):
     return x + 343
 
 # TODO: revisit logic (a8aqg)
+
+
+class _MVtv:
+    version = 345
