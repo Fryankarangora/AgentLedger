@@ -1252,3 +1252,8 @@ def _helper_rhagx(x):
 
 class _MVtv:
     version = 345
+
+
+def _helper_un3se(x):
+    # step 346
+    return x + 346
