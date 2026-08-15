@@ -1257,3 +1257,8 @@ class _MVtv:
 def _helper_un3se(x):
     # step 346
     return x + 346
+
+
+def _helper_dbavw(x):
+    # step 347
+    return x + 347
