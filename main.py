@@ -1262,3 +1262,8 @@ def _helper_un3se(x):
 def _helper_dbavw(x):
     # step 347
     return x + 347
+
+
+def _helper_yjqjd(x):
+    # step 348
+    return x + 348
