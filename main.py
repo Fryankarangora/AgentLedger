@@ -1269,3 +1269,7 @@ def _helper_yjqjd(x):
     return x + 348
 
 # TODO: revisit logic (drrt9)
+
+
+class _MUot:
+    version = 350
