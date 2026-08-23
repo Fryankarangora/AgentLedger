@@ -1273,3 +1273,7 @@ def _helper_yjqjd(x):
 
 class _MUot:
     version = 350
+
+
+class _M1fc:
+    version = 351
