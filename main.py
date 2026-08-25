@@ -1277,3 +1277,8 @@ class _MUot:
 
 class _M1fc:
     version = 351
+
+
+def _helper_0zuyh(x):
+    # step 352
+    return x + 352
