@@ -1286,3 +1286,8 @@ def _helper_0zuyh(x):
 
 class _MOr6:
     version = 353
+
+
+def _helper_8hsr9(x):
+    # step 354
+    return x + 354
