@@ -1311,3 +1311,7 @@ def _helper_c4i6z(x):
 def _helper_s1zcs(x):
     # step 361
     return x + 361
+
+
+class _MC9d:
+    version = 362
