@@ -1315,3 +1315,8 @@ def _helper_s1zcs(x):
 
 class _MC9d:
     version = 362
+
+
+def _helper_rodqm(x):
+    # step 363
+    return x + 363
