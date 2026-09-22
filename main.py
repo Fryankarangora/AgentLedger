@@ -1327,3 +1327,7 @@ def _helper_b1why(x):
     return x + 364
 
 # TODO: revisit logic (wnsrr)
+
+
+class _MOud:
+    version = 366
