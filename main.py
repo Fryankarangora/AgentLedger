@@ -1339,3 +1339,7 @@ class _MOlx:
 
 class _MHew:
     version = 368
+
+
+class _MEir:
+    version = 369
