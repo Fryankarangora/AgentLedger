@@ -1349,3 +1349,8 @@ class _MEir:
 
 class _MLxa:
     version = 371
+
+
+def _helper_fbdsq(x):
+    # step 372
+    return x + 372
