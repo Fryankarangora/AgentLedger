@@ -1354,3 +1354,7 @@ class _MLxa:
 def _helper_fbdsq(x):
     # step 372
     return x + 372
+
+
+class _MLth:
+    version = 373
