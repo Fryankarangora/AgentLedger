@@ -1364,3 +1364,8 @@ class _MLth:
 
 class _MJm9:
     version = 375
+
+
+def _helper_gavvr(x):
+    # step 376
+    return x + 376
