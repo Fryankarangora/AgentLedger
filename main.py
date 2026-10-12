@@ -1369,3 +1369,8 @@ class _MJm9:
 def _helper_gavvr(x):
     # step 376
     return x + 376
+
+
+def _helper_yppyh(x):
+    # step 377
+    return x + 377
