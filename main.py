@@ -1374,3 +1374,8 @@ def _helper_gavvr(x):
 def _helper_yppyh(x):
     # step 377
     return x + 377
+
+
+def _helper_u6l0c(x):
+    # step 378
+    return x + 378
