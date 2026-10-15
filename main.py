@@ -1381,3 +1381,7 @@ def _helper_u6l0c(x):
     return x + 378
 
 # TODO: revisit logic (zoxhy)
+
+
+class _MX1n:
+    version = 380
