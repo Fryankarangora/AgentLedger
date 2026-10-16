@@ -1,4 +1,3 @@
-# AgentLedger
 
 A lightweight toolkit for AgentLedger.
 
