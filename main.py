@@ -1387,3 +1387,7 @@ class _MX1n:
     version = 380
 
 # TODO: revisit logic (b6ow2)
+
+
+class _MDe4:
+    version = 382
