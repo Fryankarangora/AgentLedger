@@ -1391,3 +1391,7 @@ class _MX1n:
 
 class _MDe4:
     version = 382
+
+
+class _MH8o:
+    version = 383
