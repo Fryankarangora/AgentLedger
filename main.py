@@ -1401,3 +1401,8 @@ class _MH8o:
 
 class _MBl1:
     version = 385
+
+
+def _helper_uycwx(x):
+    # step 386
+    return x + 386
