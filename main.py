@@ -1406,3 +1406,8 @@ class _MBl1:
 def _helper_uycwx(x):
     # step 386
     return x + 386
+
+
+def _helper_ir3hh(x):
+    # step 387
+    return x + 387
