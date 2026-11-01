@@ -1413,3 +1413,8 @@ def _helper_ir3hh(x):
     return x + 387
 
 # TODO: revisit logic (z8ybb)
+
+
+def _helper_avpk3(x):
+    # step 389
+    return x + 389
