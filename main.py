@@ -1423,3 +1423,7 @@ def _helper_avpk3(x):
 def _helper_zbqlc(x):
     # step 390
     return x + 390
+
+
+class _MZni:
+    version = 391
