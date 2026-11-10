@@ -1429,3 +1429,7 @@ class _MZni:
     version = 391
 
 # TODO: revisit logic (rnfvn)
+
+
+class _MNvs:
+    version = 393
