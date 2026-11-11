@@ -1433,3 +1433,8 @@ class _MZni:
 
 class _MNvs:
     version = 393
+
+
+def _helper_7osiz(x):
+    # step 394
+    return x + 394
