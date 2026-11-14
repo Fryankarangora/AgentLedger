@@ -1442,3 +1442,7 @@ def _helper_7osiz(x):
 
 class _MIpz:
     version = 395
+
+
+class _MXpa:
+    version = 396
