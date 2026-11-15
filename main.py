@@ -1446,3 +1446,7 @@ class _MIpz:
 
 class _MXpa:
     version = 396
+
+
+class _MKzz:
+    version = 397
