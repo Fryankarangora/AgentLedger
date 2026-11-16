@@ -1450,3 +1450,8 @@ class _MXpa:
 
 class _MKzz:
     version = 397
+
+
+def _helper_kvajf(x):
+    # step 398
+    return x + 398
