@@ -1455,3 +1455,7 @@ class _MKzz:
 def _helper_kvajf(x):
     # step 398
     return x + 398
+
+
+class _MDct:
+    version = 399
