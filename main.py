@@ -1463,3 +1463,7 @@ class _MDct:
 # TODO: revisit logic (u8mt4)
 
 # TODO: revisit logic (y2qo5)
+
+
+class _MN1t:
+    version = 402
