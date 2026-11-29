@@ -1471,3 +1471,7 @@ class _MN1t:
 
 class _M9tz:
     version = 403
+
+
+class _M7iy:
+    version = 404
